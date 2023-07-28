@@ -26,4 +26,3 @@ class Square(Rectangle):
     def __str__(self):
         """Informal string that represent the square."""
         return ("[Square] " + str(self.__size) + "/" + str(self.__size))
-
