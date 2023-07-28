@@ -5,4 +5,3 @@
 class BaseGeometry:
     """An emoty class Defined."""
     pass
-
